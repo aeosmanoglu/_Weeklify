@@ -18,13 +18,13 @@
 }
 
 header {
-	color: #fff;
+	color: #000;
 	padding: 20px 0;
 	background: $brand-color; /* Old browsers */
 	background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%) no-repeat $brand-color;
 
 	a {
-		color: #fff;
+		color: #000;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -50,7 +50,7 @@ header {
 }
 
 .content {
-	background: #fff;
+	background: #000;
 	padding: 1px 0 0 0;
 	position: relative;
 }
