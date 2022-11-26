@@ -16,4 +16,4 @@
 
 1. A simple method that does not need an api key to embed the map has been followed, and the redundant javascript codes have been removed. `_Weeklify/contact.html`
 
-1.
+1. "Send Message" button text has been made black in accordance with the theme. `_Weeklify/_sass/forms.scss`
