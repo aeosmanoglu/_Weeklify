@@ -6,6 +6,8 @@
 
 1. Update titles Page Title | Site Title _(ex: Balancing busy lives | Hydra Template)_ to Site Title | Page Title _(Weeklify | Balancing busy lives)_ `_Weeklify/_config.yml` and `_Weeklify/_layouts/default.html`
 
+1. Download buttons now download the exe app. `_Weeklify/index.html`
+
 ## 26 November 2022
 
 ### Navigation Bar
