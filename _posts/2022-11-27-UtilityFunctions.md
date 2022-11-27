@@ -12,6 +12,12 @@ The generic linear utility funcion gives you a highly flexible way to define the
 
 Note that the utility function binds together all the specified points. Also note that the tility function continues in both directions beyond the specified points. 
 
+You can give the generic linear utility function as many points as you want. This allows the user to create a huge set of utility funcitons. 
+
 ## Normal CDF utility function
 
-Normal CDF utility function gives a very smooth utility increase compared to the generic linear utility funcion 
+Normal CDF utility function is less flexible in its shape, but provides a very smooth utility increase compared to the generic linear utility funcion 
+
+![image](https://user-images.githubusercontent.com/44125052/204152372-0907bc67-ed2f-4be0-bb24-b35aba8da001.png)
+
+This utility funciton is appropriate for most activities that follow a [diminishing return](https://en.wikipedia.org/wiki/Diminishing_returns) structure.
