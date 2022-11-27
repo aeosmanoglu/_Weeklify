@@ -4,6 +4,8 @@
 
 1. About, Login, and Sign Up navigations removed from navigations bar and footer. Blog navigation text changed to Info. `_Weeklify/_data/navigation.yml` and `_Weeklify/_data/footer.yml`
 
+1. Update titles Page Title | Site Title _(ex: Balancing busy lives | Hydra Template)_ to Site Title | Page Title _(Weeklify | Balancing busy lives)_ `_Weeklify/_config.yml` and `_Weeklify/_layouts/default.html`
+
 ## 26 November 2022
 
 ### Navigation Bar
