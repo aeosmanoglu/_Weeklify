@@ -7,3 +7,7 @@ Utility functions offer a way to quantify how much value you get form a certain 
 ## Generic linear utility function
 
 The generic linear utility funcion gives you a highly flexible way t define the utility of your activities. It forms a utility function by binding together different point that the user specifies.
+
+## Normal CDF utility function
+
+Normal CDF utility function gives a very smooth utility increase compared to the generic linear utility funcion 
