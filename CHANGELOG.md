@@ -8,6 +8,8 @@
 
 1. Download buttons now download the exe app. `_Weeklify/index.html`
 
+1. Dates are removed from Info Page. `_Weeklify/_includes/post-title.html`
+
 ## 26 November 2022
 
 ### Navigation Bar
