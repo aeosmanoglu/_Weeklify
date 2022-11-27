@@ -1,8 +1,17 @@
-[comment]: <> (This is a comment, it will not be included)
 ---
 date: 2022-11-27
 title: Utility Functions
 ---
+
+[comment]: <> (---)
+[comment]: <> (date: 2020-08-12)
+[comment]: <> (title: The history of marketing)
+[comment]: <> (categories:)
+[comment]: <> (  - marketing)
+[comment]: <> (author_staff_member: robin)
+[comment]: <> (---})
+
+
 Utility functions offer a way to quantify how much value you get form a certain ammount of a given activity. 
 
 ## Generic linear utility function
