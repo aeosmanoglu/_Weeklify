@@ -1,19 +1,11 @@
 - links:
     - name: Pricing
       link: /pricing/
-    - name: Blog
+    - name: Info
       link: /blog/
-    - name: About
-      link: /about/
     - name: Contact
       link: /contact/
 - links:
-    - name: Login
-      link: /
-      new_window: true
-    - name: Sign Up
-      link: /
-      new_window: true
     - name: Docs
       link: /
       new_window: true

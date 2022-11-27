@@ -1,18 +1,24 @@
 # CHANGELOG
 
-## Navigation Bar
+## 28 November 2022
+
+1. About, Login, and Sign Up navigations removed from navigations bar and footer. Blog navigation text changed to Info. `_Weeklify/_data/navigation.yml` and `_Weeklify/_data/footer.yml`
+
+## 26 November 2022
+
+### Navigation Bar
 
 1. Navigation bar links have been made dark in accordance with the theme. `_Weeklify/_sass/navigation.scss`
 
 1. The logo has been made black in accordance with the theme. `_Weeklify/images/logo.svg`
 
-## Hero and Bottom Section
+### Hero and Bottom Section
 
 1. Hero and bottom section text container has been made dark in accordance with the theme. `_Weeklify/_sass/landing-page.scss`
 
 1. Call to Action (CTA) button has been made black in accordance with the theme. `_Weeklify/_sass/forms.scss`
 
-## Contact Page
+### Contact Page
 
 1. A simple method that does not need an api key to embed the map has been followed, and the redundant javascript codes have been removed. `_Weeklify/contact.html`
 
