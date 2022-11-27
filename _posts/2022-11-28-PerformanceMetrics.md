@@ -1,6 +1,6 @@
 ---
-date: 2022-11-27
-title: Utility Functions
+date: 2022-11-28
+title: Performance metrics
 ---
 
 [comment]: <> (---)
@@ -12,7 +12,7 @@ title: Utility Functions
 [comment]: <> (---})
 
 
-Utility functions offer a way to quantify how much value you get form a certain ammount of a given activity. 
+Performance metrics are the concrete measurables used to quantify your performance in a given area. 
 
 ## Performance metrics for different circumstances
 ### Training
