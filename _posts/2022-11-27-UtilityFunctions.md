@@ -12,7 +12,7 @@ The generic linear utility funcion gives you a highly flexible way to define the
 
 Note that the utility function binds together all the specified points. Also note that the tility function continues in both directions beyond the specified points. 
 
-![image](https://user-images.githubusercontent.com/44125052/204153546-d552234b-a37f-4b6d-bca9-89248075702e.png)
+![image](https://user-images.githubusercontent.com/44125052/204153667-8ae7d0ce-cb7f-46db-b1c7-e56c67176a5f.png)
 
 You can give the generic linear utility function as many points as you want. This allows the user to create a huge set of utility funcitons. 
 
