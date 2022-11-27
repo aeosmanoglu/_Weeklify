@@ -6,11 +6,11 @@ Utility functions offer a way to quantify how much value you get form a certain 
 
 ## Generic linear utility function
 
-The generic linear utility funcion gives you a highly flexible way t define the utility of your activities. It forms a utility function by binding together different point that the user specifies.
+The generic linear utility funcion gives you a highly flexible way to define the utility of your activities. It forms a utility function by binding together different point that the user specifies. This is illustrated in the following figure: 
 
 ![Generic linear utility function](https://github.com/NiklasOPF/_Weeklify/blob/main/images/genericLinear.png)
 
-dsfsd
+Note that the utility function binds together all the specified points. Also note that the tility function continues in both directions beyond the specified points. 
 
 ## Normal CDF utility function
 
