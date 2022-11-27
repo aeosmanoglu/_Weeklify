@@ -8,7 +8,7 @@ Utility functions offer a way to quantify how much value you get form a certain 
 
 The generic linear utility funcion gives you a highly flexible way to define the utility of your activities. It forms a utility function by binding together different point that the user specifies. This is illustrated in the following figure: 
 
-![Generic linear utility function](https://github.com/NiklasOPF/_Weeklify/blob/main/images/genericLinear.png)
+![image](https://user-images.githubusercontent.com/44125052/204151819-26852b1b-b32f-4d83-a508-3b5334ddc1f5.png)
 
 Note that the utility function binds together all the specified points. Also note that the tility function continues in both directions beyond the specified points. 
 
