@@ -10,6 +10,20 @@
 
 1. Dates are removed from Info Page. `_Weeklify/_includes/post-title.html`
 
+1. The logo and the favicon changed.
+
+   1. `_Weeklify/images/logo.svg` and `_Weeklify/favicon.png` modified.
+
+   1. `_Weeklify/favicon.svg` added.
+
+   1. `_Weeklify/apple-touch-icon.png`, `_Weeklify/touch-icon.png`, and `_Weeklify/siteicon.png` removed.
+
+   1. The logo has fine lines. The logo and navigation bar have been enlarged for visibility. `_Weeklify/_layouts/default.html`
+
+   1. Navigation links and toggle vertically centered. `_Weeklify/_sass/navigation.scss`
+
+   1. Added Google [Bodoni Moda](https://fonts.google.com/specimen/Bodoni+Moda) for brand font. `_Weeklify/_sass/layout.scss`
+
 ## 26 November 2022
 
 ### Navigation Bar
